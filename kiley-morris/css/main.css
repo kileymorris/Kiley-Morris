@@ -25,14 +25,14 @@ body {
 
 header {
     height: 800px;
-    background: url('../img/desk.png');
+    background-color: lavender;
     background-size: cover;
     background-position: center;
 }
 header h1 { 
     padding: 65px 0 65px 25px;
     font-family: 'Lora', serif;
-    color: #bbc085;
+    color: seashell;
 }
 nav {
     float: right; 
@@ -82,7 +82,7 @@ header h2 span {
 /***** WORK *****/
 
 #work {
-    background-color: #f9ceb7;
+    background-color: lavenderblush;
     text-align: center;
     overflow: auto;
 }
@@ -112,7 +112,6 @@ header h2 span {
 /****** CONTACT ******/
 
 #contact {
-    background-color: #ebebeb;
     overflow: auto;
 }
 #contact .full-width {
